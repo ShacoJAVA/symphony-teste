@@ -26,7 +26,7 @@ Suporte de celular para uso junto à rede de Beach Tennis. O aparelho é apoiado
 | Custo interno (não divulgar em anúncio) | R$ 12,00 |
 | Garantia | 3 meses contra defeitos de fabricação. Avarias decorrentes de mau uso não são cobertas. |
 | Prazo de envio | Envio em até 3 dias; confirmar contagem e condições do prazo antes de publicar, se a plataforma exigir. |
-| Frete | A confirmar conforme destino e regras da plataforma. |
+| Frete | Calculado conforme o CEP do cliente. |
 | Cuidados | Evitar impactos excessivos, contato direto e prolongado com fontes de calor e aplicação de força além do necessário. Para limpar, usar pano úmido com água e sabão neutro. Não usar produtos químicos agressivos. |
 
 ## Benefícios
@@ -80,7 +80,7 @@ Apoie seu celular junto à rede durante o Beach Tennis. Suporte fabricado por im
 
 Produzido para condições normais de uso externo, com resistência a contato com areia, suor e umidade ocasional. Não é impermeável nem indestrutível. Evite calor muito elevado por tempo prolongado e impactos fortes. Limpe com pano úmido, água e sabão neutro; não use produtos químicos agressivos.
 
-Garantia de 3 meses contra defeitos de fabricação. Avarias decorrentes de mau uso não são cobertas. Frete conforme destino e condições da plataforma.
+Garantia de 3 meses contra defeitos de fabricação. Avarias decorrentes de mau uso não são cobertas. Frete calculado conforme o CEP do cliente.
 
 ## Estrutura para Instagram
 
@@ -125,7 +125,7 @@ Garantia de 3 meses contra defeitos de fabricação; avarias decorrentes de mau 
 
 ## Pendências antes da publicação
 
-Não há pendências comerciais relevantes para a oferta básica: nome, material, acabamento, cores e quantidades informados, dimensões, peso, preço, conteúdo, compatibilidade geral, limites de resistência, cuidados, garantia e prazo de envio foram informados. Antes de cada publicação/pedido, confirmar saldo de estoque por cor, encaixe para o modelo e capa do comprador e frete conforme destino. As regras de garantia devem acompanhar o anúncio.
+Não há pendências comerciais relevantes para a oferta básica: nome, material, acabamento, cores e quantidades informados, dimensões, peso, preço, conteúdo, compatibilidade geral, limites de resistência, cuidados, garantia, prazo de envio e regra de frete foram informados. Antes de cada publicação/pedido, confirmar saldo de estoque por cor e encaixe para o modelo e capa do comprador. As regras de garantia devem acompanhar o anúncio.
 
 ## Versão final para Shopee
 
@@ -133,7 +133,7 @@ Não há pendências comerciais relevantes para a oferta básica: nome, material
 
 **Benefícios:** Apoie/encaixe seu celular junto à rede de Beach Tennis. Fabricado por impressão 3D em plástico ABS, com acabamento Premium. Dimensões: 7 × 6 × 15 cm (comprimento × profundidade × altura). Peso: 200 g. Cores: preto, branco e rosa, conforme disponibilidade.
 
-**Descrição:** Suporte de celular para usar junto à rede de Beach Tennis. O aparelho é apoiado/encaixado diretamente no suporte. Fabricado por impressão 3D em plástico ABS, com acabamento Premium. Mede 7 cm de comprimento × 6 cm de profundidade × 15 cm de altura e pesa 200 g. Disponível nas cores preto, branco e rosa; consulte o estoque. Compatibilidade varia principalmente conforme a espessura do aparelho e da capa, então confirme o encaixe do seu conjunto antes da compra. Produzido para condições normais de uso externo e resistente a contato com areia, suor e umidade ocasional. Não é impermeável nem indestrutível. Evite calor muito elevado por tempo prolongado e impactos fortes. Para limpar, use pano úmido, água e sabão neutro; não use produtos químicos agressivos. Conteúdo: 1 suporte. Preço: R$ 69,90. Envio em até 3 dias. Garantia de 3 meses contra defeitos de fabricação; avarias decorrentes de mau uso não são cobertas. Frete conforme destino e condições da plataforma.
+**Descrição:** Suporte de celular para usar junto à rede de Beach Tennis. O aparelho é apoiado/encaixado diretamente no suporte. Fabricado por impressão 3D em plástico ABS, com acabamento Premium. Mede 7 cm de comprimento × 6 cm de profundidade × 15 cm de altura e pesa 200 g. Disponível nas cores preto, branco e rosa; consulte o estoque. Compatibilidade varia principalmente conforme a espessura do aparelho e da capa, então confirme o encaixe do seu conjunto antes da compra. Produzido para condições normais de uso externo e resistente a contato com areia, suor e umidade ocasional. Não é impermeável nem indestrutível. Evite calor muito elevado por tempo prolongado e impactos fortes. Para limpar, use pano úmido, água e sabão neutro; não use produtos químicos agressivos. Conteúdo: 1 suporte. Preço: R$ 69,90. Envio em até 3 dias. Garantia de 3 meses contra defeitos de fabricação; avarias decorrentes de mau uso não são cobertas. Frete calculado conforme o CEP do cliente.
 
 ## Versão final para Instagram
 
@@ -151,6 +151,6 @@ A compatibilidade varia principalmente conforme a espessura do aparelho e da cap
 - [ ] Confirmar encaixe para o aparelho e a capa do comprador, sem prometer compatibilidade universal.
 - [ ] Usar fotos reais que demonstrem apenas encaixe e instalação efetivamente verificados.
 - [ ] Publicar dimensões como 7 cm comprimento × 6 cm profundidade × 15 cm altura e peso de 200 g.
-- [ ] Informar preço R$ 69,90, envio em até 3 dias e frete conforme destino/plataforma.
+- [ ] Informar preço R$ 69,90, envio em até 3 dias e frete calculado conforme o CEP do cliente.
 - [ ] Informar as condições completas da garantia: 3 meses para defeitos de fabricação; mau uso não coberto.
 - [ ] Revisar categoria, atributos e imagens na plataforma antes de publicar.
