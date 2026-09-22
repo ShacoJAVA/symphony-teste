@@ -95,6 +95,21 @@ Use para alteração de software.
 10. Comente na issue com o link do PR.
 11. Depois que o PR existir e o resumo estiver no branch remoto, feche a issue. A revisão humana acontece no Pull Request.
 
+## COMPLEMENTO DE DADOS DE PRODUTO
+
+Se houver comentário começando por `DADOS CONFIRMADOS (Symphony Manager V3)`, trate os pares campo/valor como informações verificadas pelo usuário.
+
+1. Atualize o arquivo `outputs/{{ issue.identifier }}.md` existente em vez de criar outro documento do zero.
+2. Substitua somente os `A confirmar` correspondentes aos dados recebidos.
+3. Não invente os campos que ainda estiverem faltando.
+4. Recalcule a seção `Pendências antes da publicação`.
+5. Se não restarem pendências comerciais relevantes, acrescente no início `STATUS_COMERCIAL: PRONTO_PARA_PUBLICAR`.
+6. Quando estiver pronto, acrescente ao fim:
+   - `## Versão final para Shopee`, com título, benefícios e descrição prontos para copiar;
+   - `## Versão final para Instagram`, com legenda pronta para copiar;
+   - `## Checklist final de publicação`.
+7. Faça commit e push do arquivo atualizado, comente na issue e só então feche a issue.
+
 ## REVISÕES
 
 Se a issue tiver sido reaberta e houver comentário começando por `PEDIDO DE REVISÃO`, trate esse comentário como nova instrução. Atualize o resultado anterior em vez de começar do zero.
