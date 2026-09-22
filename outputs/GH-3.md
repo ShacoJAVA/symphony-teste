@@ -1,40 +1,41 @@
+STATUS_COMERCIAL: PRONTO_PARA_PUBLICAR
+
 # Ficha comercial — Suporte de celular para rede de Beach Tennis
 
-**Finalidade:** base comercial e conteúdo para Shopee e Instagram.  
-**Produto:** peça produzida por impressão 3D.  
-**Status:** material comercial atualizado com dados confirmados; falta confirmar a unidade das dimensões antes de publicar medidas.
+**Finalidade:** base comercial para Shopee e Instagram.  
+**Produto:** fabricado por impressão 3D.  
+**Status:** dados comerciais informados para publicação; confirmar disponibilidade no momento do pedido.
 
 ## Resumo do produto
 
-Suporte de celular desenvolvido para uso na rede de Beach Tennis. O celular é apoiado/encaixado diretamente no suporte. A peça é de plástico ABS, com acabamento Premium, e foi informada como disponível nas cores preto, branco e rosa.
+Suporte de celular para uso junto à rede de Beach Tennis. O aparelho é apoiado/encaixado diretamente no suporte. Produto fabricado por impressão 3D em plástico ABS, com acabamento Premium.
 
 | Campo | Informação |
 |---|---|
 | Nome comercial | Suporte de celular para rede de Beach Tennis |
 | Fabricação | Impressão 3D |
 | Material e acabamento | Plástico ABS, acabamento Premium |
-| Cores | Preto, branco e rosa; disponibilidade em estoque: A confirmar |
-| Dimensões | 7 × 6 × 15; unidade e ordem das medidas: A confirmar. Não publicar os números sem essa confirmação. |
-| Peso | A confirmar |
-| Compatibilidade | Compatível com diversos tamanhos de smartphones; varia principalmente conforme a espessura do aparelho e da capa. Compatibilidade de cada modelo específico: A confirmar. |
+| Cores e estoque informado | Preto (10 unidades), branco (10 unidades) e rosa (10 unidades); confirmar disponibilidade no momento do pedido |
+| Dimensões | 7 cm comprimento × 6 cm profundidade × 15 cm altura |
+| Peso | 200 g |
+| Compatibilidade | Compatível com diversos tamanhos de smartphones; pode variar principalmente conforme a espessura do aparelho e da capa. Verificar o encaixe para o aparelho e a capa usados. |
 | Apoio do aparelho | O celular é apoiado/encaixado diretamente no suporte. |
-| Instalação | Para uso na rede de Beach Tennis; detalhes visuais e confirmação de instalação na rede: conferir nas fotos reais antes de publicar. |
-| Resistência e limites | Produzido para condições normais de uso externo. Resiste a contato com areia, suor e umidade ocasional. Não é impermeável nem indestrutível. Evitar exposição prolongada a temperaturas muito elevadas e impactos fortes. |
+| Resistência e limites | Produzido para condições normais de uso externo, com resistência ao contato com areia, suor e umidade ocasional. Não é impermeável nem indestrutível. Evitar exposição prolongada a temperaturas muito elevadas e impactos fortes. |
 | Itens inclusos | 1 suporte de celular para rede de Beach Tennis |
-| Preço | Varia conforme quantidade solicitada, personalização e local de entrega; informar no orçamento. |
-| Custo interno | A confirmar; não divulgar como preço ao consumidor. |
-| Garantia | 3 meses contra defeitos de fabricação; condições detalhadas: A confirmar |
-| Cuidados | Evitar impactos excessivos, contato direto e prolongado com fontes de calor e força além do necessário. Limpar com pano úmido, água e sabão neutro. Não usar produtos químicos agressivos. |
-| Envio e prazo | A confirmar; consultar no orçamento conforme local de entrega e quantidade. |
+| Preço de venda informado | R$ 69,90 |
+| Custo interno (não divulgar em anúncio) | R$ 12,00 |
+| Garantia | 3 meses contra defeitos de fabricação. Avarias decorrentes de mau uso não são cobertas. |
+| Prazo de envio | Envio em até 3 dias; confirmar contagem e condições do prazo antes de publicar, se a plataforma exigir. |
+| Frete | A confirmar conforme destino e regras da plataforma. |
+| Cuidados | Evitar impactos excessivos, contato direto e prolongado com fontes de calor e aplicação de força além do necessário. Para limpar, usar pano úmido com água e sabão neutro. Não usar produtos químicos agressivos. |
 
 ## Benefícios
 
 - Mantém o celular apoiado/encaixado em um suporte dedicado ao contexto da rede de Beach Tennis.
-- Ajuda a organizar o aparelho durante a utilização, conforme compatibilidade entre aparelho, capa e suporte.
-- A fabricação por impressão 3D permite oferecer uma peça própria para essa aplicação.
-- Uso externo em condições normais, respeitando os cuidados e limites informados.
-
-Não anunciar como impermeável, indestrutível, compatível com todos os aparelhos ou seguro contra qualquer impacto. Não garantir gravação ou filmagem sem validação prática.
+- Ajuda a manter o aparelho posicionado durante a utilização, conforme o encaixe do aparelho e da capa.
+- Dimensões e peso informados para ajudar o comprador a avaliar o produto.
+- Produzido por impressão 3D em plástico ABS, com acabamento Premium.
+- Disponível em três cores informadas, sujeitas à disponibilidade do estoque.
 
 ## Público-alvo
 
@@ -44,44 +45,42 @@ Não anunciar como impermeável, indestrutível, compatível com todos os aparel
 
 ## Diferenciais
 
-- Produto voltado ao uso junto à rede de Beach Tennis.
-- Peça produzida por impressão 3D em plástico ABS.
-- Acabamento Premium informado e opções de cor preto, branco e rosa (sujeitas à disponibilidade).
+- Desenvolvido para uso junto à rede de Beach Tennis.
 - O telefone é apoiado/encaixado diretamente no suporte.
-- Limites de uso externo e cuidados descritos com transparência.
+- Fabricação por impressão 3D em plástico ABS e acabamento Premium.
+- Três opções de cor com estoque informado: preto, branco e rosa.
+- Informações transparentes sobre compatibilidade, limites de uso externo e garantia.
 
 ## Estrutura de anúncio para Shopee
 
 ### Título sugerido
 
-**Suporte de Celular para Rede de Beach Tennis em ABS — Impressão 3D**
+**Suporte de Celular para Rede de Beach Tennis ABS Impressão 3D**
 
-### Benefícios em destaque
+### Destaques
 
-- Apoio dedicado para celular no contexto do Beach Tennis.
-- Produzido em plástico ABS por impressão 3D.
-- Cores informadas: preto, branco e rosa (consulte disponibilidade).
-- Compatibilidade varia conforme espessura do aparelho e da capa.
+- Para apoiar/encaixar o celular junto à rede de Beach Tennis.
+- Fabricado por impressão 3D em plástico ABS, acabamento Premium.
+- Dimensões: 7 × 6 × 15 cm (comprimento × profundidade × altura).
+- Peso: 200 g.
+- Cores: preto, branco e rosa; consulte disponibilidade.
+- Compatibilidade varia principalmente conforme a espessura do aparelho e da capa.
 
 ### Descrição-base
 
-Tenha um local dedicado para apoiar o celular durante o Beach Tennis. Suporte produzido por impressão 3D em plástico ABS, com acabamento Premium informado. Cores disponíveis conforme estoque: preto, branco e rosa.
+Apoie seu celular junto à rede durante o Beach Tennis. Suporte fabricado por impressão 3D em plástico ABS, com acabamento Premium. O aparelho é apoiado/encaixado diretamente no suporte.
 
-O celular é apoiado/encaixado diretamente no suporte. A compatibilidade varia principalmente de acordo com a espessura do aparelho e da capa utilizada. Consulte antes da compra para confirmar o encaixe do seu conjunto.
-
+**Dimensões:** 7 cm de comprimento × 6 cm de profundidade × 15 cm de altura.  
+**Peso:** 200 g.  
+**Cores:** preto, branco e rosa; consulte disponibilidade.  
 **Conteúdo:** 1 suporte de celular para rede de Beach Tennis.  
-**Dimensões informadas:** 7 × 6 × 15; unidade ainda a confirmar, portanto confira essa informação antes de considerar as medidas.  
-**Preço:** varia conforme quantidade, personalização e local de entrega; solicite orçamento.  
-**Garantia informada:** 3 meses contra defeitos de fabricação; consulte as condições.
+**Preço:** R$ 69,90.  
+**Envio:** em até 3 dias.  
+**Compatibilidade:** varia principalmente conforme a espessura do aparelho e da capa; confirme o encaixe para seu conjunto antes da compra.
 
-Produzido para condições normais de uso externo. Resiste a contato com areia, suor e umidade ocasional, mas não é impermeável nem indestrutível. Evite calor intenso por tempo prolongado e impactos fortes. Para limpar, use pano úmido, água e sabão neutro; não use químicos agressivos.
+Produzido para condições normais de uso externo, com resistência a contato com areia, suor e umidade ocasional. Não é impermeável nem indestrutível. Evite calor muito elevado por tempo prolongado e impactos fortes. Limpe com pano úmido, água e sabão neutro; não use produtos químicos agressivos.
 
-### Campos da plataforma a preencher
-
-- Unidade das dimensões e variações de cor em estoque: A confirmar.
-- Compatibilidade de modelos específicos: A confirmar.
-- Preço final, frete e prazo: informar após orçamento, conforme quantidade, personalização e destino.
-- Condições detalhadas da garantia e categoria/atributos da plataforma: A confirmar.
+Garantia de 3 meses contra defeitos de fabricação. Avarias decorrentes de mau uso não são cobertas. Frete conforme destino e condições da plataforma.
 
 ## Estrutura para Instagram
 
@@ -89,66 +88,69 @@ Produzido para condições normais de uso externo. Resiste a contato com areia, 
 
 Beach Tennis e celular no lugar certo. 🎾📱
 
-Suporte para celular desenvolvido para uso na rede de Beach Tennis, produzido por impressão 3D em plástico ABS e com acabamento Premium. O aparelho é apoiado/encaixado diretamente no suporte. Cores informadas: preto, branco e rosa (consulte disponibilidade).
+Suporte de celular para usar junto à rede de Beach Tennis, fabricado por impressão 3D em plástico ABS com acabamento Premium. O aparelho é apoiado/encaixado diretamente no suporte.
 
-A compatibilidade varia conforme a espessura do aparelho e da capa. Produzido para condições normais de uso externo, com resistência a contato com areia, suor e umidade ocasional. Não é impermeável nem indestrutível; evite calor intenso prolongado e impactos fortes.
+📏 7 × 6 × 15 cm (comprimento × profundidade × altura)  
+⚖️ 200 g  
+🎨 Preto, branco e rosa — consulte disponibilidade  
+💰 R$ 69,90  
+📦 Envio em até 3 dias
 
-Preço sob orçamento conforme quantidade, personalização e local de entrega. Chame para consultar compatibilidade, disponibilidade e condições. Garantia informada de 3 meses contra defeitos de fabricação; consulte as condições.
+A compatibilidade varia principalmente conforme a espessura do aparelho e da capa. Para condições normais de uso externo: resistência a contato com areia, suor e umidade ocasional. Não é impermeável nem indestrutível; evite calor muito elevado por tempo prolongado e impactos fortes.
+
+Garantia de 3 meses contra defeitos de fabricação; avarias decorrentes de mau uso não são cobertas. Chame para consultar compatibilidade e disponibilidade.
 
 ### Sugestão de carrossel
 
 1. Produto inteiro: “Suporte de celular para rede de Beach Tennis”.
-2. Demonstração real do aparelho apoiado/encaixado.
-3. Vistas e detalhes do suporte e do aparelho/capa utilizados na demonstração.
-4. Cores realmente disponíveis.
-5. Cuidados de uso e chamada para consultar compatibilidade e orçamento.
+2. Demonstração real do aparelho apoiado/encaixado no suporte.
+3. Vistas e detalhes do suporte e do aparelho/capa usados na demonstração.
+4. Cores disponíveis: preto, branco e rosa.
+5. Dimensões, peso, preço e prazo de envio.
+6. Cuidados de uso, garantia e chamada para consultar compatibilidade.
 
 ## Checklist de fotos
 
 - [ ] Foto principal nítida do produto inteiro, em fundo limpo e bem iluminado.
 - [ ] Fotos frontal, traseira, laterais, base e detalhes da área de apoio/encaixe.
 - [ ] Demonstração real junto à rede e do celular apoiado no suporte.
-- [ ] Registrar o modelo do celular e se foi usada capa na foto de demonstração; não sugerir compatibilidade universal.
-- [ ] Mostrar apenas cores efetivamente disponíveis no momento da venda.
+- [ ] Registrar modelo do celular e se foi usada capa na demonstração; não sugerir compatibilidade universal.
+- [ ] Mostrar as cores preto, branco e rosa, confirmando estoque antes da publicação.
 - [ ] Foto de todos os itens incluídos (1 suporte).
-- [ ] Confirmar unidade e ordem das dimensões 7 × 6 × 15 antes de produzir imagem com medidas.
-- [ ] Não usar escala visual que implique medidas não confirmadas.
+- [ ] Incluir dimensões corretas: 7 cm comprimento × 6 cm profundidade × 15 cm altura; não distorcer proporções.
+- [ ] Não usar escala visual que sugira características não confirmadas.
 - [ ] Evitar imagens que sugiram impermeabilidade, indestrutibilidade ou proteção contra impactos fortes.
 - [ ] Preparar imagem quadrada para marketplace e versões verticais para Instagram, mantendo o produto inteiro visível.
-- [ ] Conferir regras vigentes da plataforma para textos e elementos na imagem principal.
+- [ ] Conferir regras da plataforma para textos e elementos na imagem principal.
 
 ## Pendências antes da publicação
 
-1. Confirmar unidade e ordem das dimensões informadas como 7 × 6 × 15; até lá, omitir dimensões do anúncio público.
-2. Confirmar estoque das três cores.
-3. Validar compatibilidade com os modelos/aparelhos e capas que se pretende citar ou mostrar.
-4. Fotografar a instalação e o uso real junto à rede, sem sugerir montagem não demonstrada.
-5. Confirmar preço final no orçamento, prazo/envio por destino e condições completas da garantia.
-6. Confirmar categoria e atributos da Shopee e revisar imagens conforme as regras vigentes da plataforma.
+Não há pendências comerciais relevantes para a oferta básica: nome, material, acabamento, cores e quantidades informados, dimensões, peso, preço, conteúdo, compatibilidade geral, limites de resistência, cuidados, garantia e prazo de envio foram informados. Antes de cada publicação/pedido, confirmar saldo de estoque por cor, encaixe para o modelo e capa do comprador e frete conforme destino. As regras de garantia devem acompanhar o anúncio.
 
 ## Versão final para Shopee
 
-**Título:** Suporte de Celular para Rede de Beach Tennis em ABS — Impressão 3D
+**Título:** Suporte de Celular para Rede de Beach Tennis ABS Impressão 3D
 
-**Benefícios:** Apoio dedicado para celular no contexto do Beach Tennis; produzido por impressão 3D em plástico ABS; cores informadas preto, branco e rosa, sujeitas à disponibilidade. Compatibilidade varia conforme a espessura do aparelho e da capa.
+**Benefícios:** Apoie/encaixe seu celular junto à rede de Beach Tennis. Fabricado por impressão 3D em plástico ABS, com acabamento Premium. Dimensões: 7 × 6 × 15 cm (comprimento × profundidade × altura). Peso: 200 g. Cores: preto, branco e rosa, conforme disponibilidade.
 
-**Descrição:** Suporte para apoiar/encaixar o celular durante o Beach Tennis. Produzido por impressão 3D em plástico ABS, com acabamento Premium. Consulte disponibilidade de cores e confirme a compatibilidade do seu aparelho e da capa antes de comprar. O produto é destinado a condições normais de uso externo e resiste a contato com areia, suor e umidade ocasional. Não é impermeável nem indestrutível. Evite exposição prolongada a temperaturas muito elevadas e impactos fortes. Limpe com pano úmido, água e sabão neutro; não use produtos químicos agressivos. Conteúdo: 1 suporte. Preço e prazo sob orçamento conforme quantidade, personalização e local de entrega. Garantia informada de 3 meses contra defeitos de fabricação; consulte as condições.**
-
-**Nota de publicação:** não incluir as dimensões 7 × 6 × 15 até confirmar a unidade e a ordem das medidas.
+**Descrição:** Suporte de celular para usar junto à rede de Beach Tennis. O aparelho é apoiado/encaixado diretamente no suporte. Fabricado por impressão 3D em plástico ABS, com acabamento Premium. Mede 7 cm de comprimento × 6 cm de profundidade × 15 cm de altura e pesa 200 g. Disponível nas cores preto, branco e rosa; consulte o estoque. Compatibilidade varia principalmente conforme a espessura do aparelho e da capa, então confirme o encaixe do seu conjunto antes da compra. Produzido para condições normais de uso externo e resistente a contato com areia, suor e umidade ocasional. Não é impermeável nem indestrutível. Evite calor muito elevado por tempo prolongado e impactos fortes. Para limpar, use pano úmido, água e sabão neutro; não use produtos químicos agressivos. Conteúdo: 1 suporte. Preço: R$ 69,90. Envio em até 3 dias. Garantia de 3 meses contra defeitos de fabricação; avarias decorrentes de mau uso não são cobertas. Frete conforme destino e condições da plataforma.
 
 ## Versão final para Instagram
 
-Beach Tennis e celular no lugar certo. 🎾📱 Suporte para celular desenvolvido para uso na rede de Beach Tennis, produzido por impressão 3D em plástico ABS e com acabamento Premium. O aparelho é apoiado/encaixado diretamente no suporte. Cores informadas: preto, branco e rosa (consulte disponibilidade).
+Beach Tennis e celular no lugar certo. 🎾📱 Suporte de celular para usar junto à rede de Beach Tennis, fabricado por impressão 3D em plástico ABS com acabamento Premium. O aparelho é apoiado/encaixado diretamente no suporte.
 
-A compatibilidade varia conforme a espessura do aparelho e da capa. Para condições normais de uso externo: resistência a contato com areia, suor e umidade ocasional. Não é impermeável nem indestrutível; evite calor intenso prolongado e impactos fortes.
+📏 7 × 6 × 15 cm (comprimento × profundidade × altura) | ⚖️ 200 g  
+🎨 Preto, branco e rosa — consulte disponibilidade  
+💰 R$ 69,90 | 📦 Envio em até 3 dias
 
-Preço sob orçamento conforme quantidade, personalização e local de entrega. Chame para consultar compatibilidade, disponibilidade e condições. Garantia informada de 3 meses contra defeitos de fabricação; consulte as condições.
+A compatibilidade varia principalmente conforme a espessura do aparelho e da capa. Resistente a contato com areia, suor e umidade ocasional em condições normais de uso externo. Não é impermeável nem indestrutível; evite calor muito elevado por tempo prolongado e impactos fortes. Garantia de 3 meses contra defeitos de fabricação; avarias decorrentes de mau uso não são cobertas. Chame para consultar compatibilidade e estoque.
 
 ## Checklist final de publicação
 
-- [ ] Confirmar unidade e ordem das dimensões antes de incluir medidas; se pendente, omitir.
-- [ ] Confirmar cores em estoque e compatibilidade do aparelho/capa do cliente.
+- [ ] Confirmar saldo de estoque da cor escolhida.
+- [ ] Confirmar encaixe para o aparelho e a capa do comprador, sem prometer compatibilidade universal.
 - [ ] Usar fotos reais que demonstrem apenas encaixe e instalação efetivamente verificados.
-- [ ] Informar preço e prazo após orçamento conforme quantidade, personalização e destino.
-- [ ] Informar condições completas da garantia.
-- [ ] Revisar texto, categoria, atributos e imagens na plataforma antes de publicar.
+- [ ] Publicar dimensões como 7 cm comprimento × 6 cm profundidade × 15 cm altura e peso de 200 g.
+- [ ] Informar preço R$ 69,90, envio em até 3 dias e frete conforme destino/plataforma.
+- [ ] Informar as condições completas da garantia: 3 meses para defeitos de fabricação; mau uso não coberto.
+- [ ] Revisar categoria, atributos e imagens na plataforma antes de publicar.
