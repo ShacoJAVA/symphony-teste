@@ -1,7 +1,7 @@
 # Ficha comercial — Suporte de celular para beach tennis
 
 **Finalidade:** base para publicação na Shopee e no Instagram  
-**Produto confirmado:** suporte de celular produzido por impressão 3D, destinado ao contexto de beach tennis.  
+**Produto confirmado:** suporte de celular para rede de Beach Tennis, produzido por impressão 3D.
 **Status:** rascunho comercial; validar os itens marcados como **A confirmar** antes de publicar.
 
 ## Resumo do produto
@@ -10,18 +10,21 @@ Suporte de celular impresso em 3D, pensado para pessoas que praticam ou acompanh
 
 | Informação | Situação |
 |---|---|
-| Nome comercial | Suporte de celular para beach tennis (nome final A confirmar) |
+| Nome comercial | Suporte de celular para rede de Beach Tennis |
 | Processo de fabricação | Impressão 3D |
-| Material e acabamento | A confirmar |
-| Cores disponíveis | A confirmar |
-| Dimensões e peso | A confirmar — não informados |
-| Compatibilidade com modelos/tamanhos de celular | A confirmar |
+| Material e acabamento | Plástico ABS, acabamento Premium (informação confirmada pelo responsável; validar a descrição comercial de “Premium”) |
+| Cores disponíveis | Preto, branco e rosa |
+| Dimensões | A confirmar — não informadas |
+| Peso | 200 g (informação recebida como `dimensoes: 200g`; interpretada como peso pela unidade; confirmar antes da publicação) |
+| Compatibilidade com modelos/tamanhos de celular | Compatibilidade depende da capa usada; modelos/aparelhos testados: A confirmar |
 | Como prende ou apoia o celular | A confirmar |
-| Onde e como o suporte é instalado | A confirmar |
-| Resistência ao sol, areia, suor, impactos e umidade | A confirmar; não prometer sem validação |
-| Itens inclusos | A confirmar |
-| Preço, custo, prazo e condições de envio | A confirmar |
-| Garantia e cuidados de uso | A confirmar |
+| Onde e como o suporte é instalado | Na rede de Beach Tennis; método de fixação e demonstração: A confirmar |
+| Resistência ao sol, areia, suor, impactos e umidade | Informada como resistente pelo responsável; nível, condições e validação da resistência: A confirmar |
+| Itens inclusos | 1 suporte de celular para rede de Beach Tennis |
+| Preço de venda | R$ 69,90 (confirmar se preço vigente e se varia por cor/canal) |
+| Custo, prazo e condições de envio | A confirmar |
+| Garantia | 3 meses contra defeitos de fabricação |
+| Cuidados e instruções de uso | A confirmar |
 
 ## Benefícios para comunicar
 
@@ -29,7 +32,7 @@ Usar como benefícios pretendidos, após verificar que correspondem ao funcionam
 
 - **Praticidade durante o beach tennis:** proposta de deixar o celular acessível no contexto da partida. A posição exata e o acesso ao aparelho são A confirmar.
 - **Organização:** pode oferecer um lugar definido para o celular, conforme o método de apoio ou instalação a confirmar.
-- **Uso dedicado à atividade:** produto apresentado para o contexto de beach tennis; compatibilidade com quadras, equipamentos ou locais específicos é A confirmar.
+- **Uso dedicado à atividade:** suporte identificado para instalação em rede de Beach Tennis; método de fixação e compatibilidade com diferentes redes: A confirmar.
 - **Produção por impressão 3D:** característica de fabricação confirmada. Não implica, por si só, resistência ou desempenho específico.
 
 Não afirmar que o suporte grava vídeos, prende em uma estrutura específica, serve para qualquer aparelho ou resiste a areia, água, sol ou impactos sem testes e confirmação.
@@ -48,13 +51,13 @@ O uso para filmagem, transmissão ou captura de conteúdo é uma possibilidade d
 - Peça produzida por impressão 3D.
 - Potencial de oferecer praticidade e organização no uso do celular durante a atividade, condicionado à confirmação do modo de uso.
 
-Personalização, variedade de cores, desenho exclusivo, leveza, portabilidade, durabilidade e compatibilidade universal: **A confirmar**. Não usar esses pontos como diferenciais publicados até validação.
+Três cores informadas (preto, branco e rosa), material ABS e acabamento descrito como Premium. Disponibilidade efetiva de cada cor: A confirmar. Não afirmar compatibilidade universal, durabilidade ou desempenho além do que for demonstrado e confirmado.
 
 ## Estrutura sugerida para anúncio na Shopee
 
 ### Título (rascunho)
 
-**Suporte de Celular para Beach Tennis Impresso em 3D — [modo de instalação/uso A confirmar]**
+**Suporte de Celular para Rede de Beach Tennis em ABS Impresso em 3D**
 
 Remover o trecho entre colchetes ou substituí-lo por informação verificada antes de publicar. Acrescentar compatibilidade ou cor somente quando confirmadas.
 
@@ -71,37 +74,39 @@ Remover o trecho entre colchetes ou substituí-lo por informação verificada an
 
 ### Descrição (rascunho editável)
 
-Deixe o celular mais organizado no contexto do beach tennis com este suporte produzido por impressão 3D.
+Deixe o celular mais organizado durante o beach tennis com este suporte para rede, produzido por impressão 3D em plástico ABS e com acabamento descrito como Premium. Disponível nas cores preto, branco e rosa, conforme estoque.
 
 **Antes de comprar, confira:**
 
-- Compatibilidade com o celular: **A confirmar**.
-- Modo de instalação e local de uso: **A confirmar**.
-- Material e cor: **A confirmar**.
-- Dimensões e peso: **A confirmar**.
-- Conteúdo da embalagem: **A confirmar**.
+- Compatibilidade: depende da capa usada; confirme se o seu conjunto celular/capa foi testado.
+- Instalação: para rede de Beach Tennis; método de fixação: **A confirmar**.
+- Material: plástico ABS. Cores informadas: preto, branco e rosa.
+- Peso informado: 200 g. Dimensões: **A confirmar**.
+- Conteúdo: 1 suporte de celular para rede de Beach Tennis.
+- Preço informado: R$ 69,90. Confirme preço e disponibilidade antes da compra.
+- Garantia informada: 3 meses contra defeitos de fabricação. Condições completas: **A confirmar**.
 
-Consulte as fotos e confirme a compatibilidade e a forma de uso antes da compra. Não exponha o produto a condições para as quais não haja resistência validada. Informações sobre garantia, cuidados, envio e prazo: **A confirmar**.
+Consulte as fotos e confirme a compatibilidade com a capa e o método de instalação antes da compra. A resistência a sol, areia, suor, impactos e umidade foi informada pelo responsável; condições e limites de uso: **A confirmar**. Prazo e condições de envio e cuidados: **A confirmar**.
 
 ### Campos e informações a completar
 
 - Categoria e atributos exigidos pela plataforma: A confirmar.
 - Variações de cor/modelo e estoque: A confirmar.
 - Preço, frete, prazo de preparação e envio: A confirmar.
-- Material, dimensões, peso embalado e conteúdo da embalagem: A confirmar.
+- Dimensões, peso embalado e confirmação de que os 200 g correspondem ao peso unitário do produto: A confirmar.
 - Compatibilidade, instruções e limitações de uso: A confirmar.
 
 ## Estrutura sugerida para Instagram
 
 ### Legenda (rascunho)
 
-Beach tennis e celular mais organizado: conheça o suporte para celular produzido por impressão 3D. 🎾📱
+Mais organização para o celular na rede de Beach Tennis. 🎾📱 Suporte produzido por impressão 3D em plástico ABS, acabamento descrito como Premium e cores informadas: preto, branco e rosa. Preço informado: R$ 69,90; peso informado: 200 g; garantia informada: 3 meses contra defeitos de fabricação.
 
-Quer saber se funciona com seu aparelho e como é feita a instalação? Consulte a compatibilidade e os detalhes antes de comprar. **Compatibilidade, modo de uso, cores, dimensões e disponibilidade: A confirmar.**
+Compatibilidade depende da capa usada. Consulte antes da compra para confirmar seu aparelho, a instalação na rede, disponibilidade da cor e dimensões. Método de fixação e medidas: **A confirmar**.
 
 ### Sugestão de carrossel
 
-1. Produto em destaque: “Suporte de celular para beach tennis”.
+1. Produto em destaque: “Suporte de celular para rede de Beach Tennis”.
 2. Demonstração real de instalação e uso, depois de confirmados.
 3. Detalhe do encaixe e dos pontos de apoio.
 4. Compatibilidade e medidas, preenchidas após verificação.
@@ -113,7 +118,7 @@ Usar imagens reais do produto. Evitar mostrar aparelho ou montagem que possa lev
 
 - [ ] Foto nítida do produto completo, sem obstruções e com boa iluminação.
 - [ ] Frente, traseira, laterais, base e detalhes do encaixe.
-- [ ] Foto em escala e medidas reais registradas; dimensões: A confirmar.
+- [ ] Foto em escala e medidas reais registradas; dimensões: A confirmar (não usar 200 g como medida linear).
 - [ ] Demonstração da instalação real, sem ocultar como o produto se fixa.
 - [ ] Demonstração com aparelho(s) testado(s), registrando modelo e tamanho.
 - [ ] Foto em contexto de beach tennis, se representar uso validado.
@@ -121,17 +126,17 @@ Usar imagens reais do produto. Evitar mostrar aparelho ou montagem que possa lev
 - [ ] Foto de todos os itens incluídos na embalagem.
 - [ ] Fundo limpo na imagem principal; produto ocupando boa parte do quadro.
 - [ ] Sem textos de preço, contato ou alegações não verificadas na imagem principal da Shopee.
-- [ ] Conferir se nenhuma foto sugere resistência a água, areia, sol ou impacto não testada.
+- [ ] Conferir se nenhuma foto sugere níveis de resistência a água, areia, sol ou impacto além dos confirmados e demonstrados.
 - [ ] Preparar versões quadrada para marketplace e formatos verticais para Instagram, mantendo o produto inteiro no enquadramento.
 
 ## Pendências antes da publicação
 
-1. Registrar dimensões e peso do produto e, se necessário, da embalagem.
-2. Confirmar material, acabamento, cores e variações disponíveis.
-3. Explicar e fotografar o método e o local de instalação.
-4. Testar e declarar a compatibilidade com aparelhos identificados.
-5. Validar estabilidade e condições de uso; definir limites e cuidados.
-6. Confirmar conteúdo da embalagem, preço, estoque, prazo, envio e garantia.
+1. Medir e registrar dimensões; confirmar se os 200 g informados são o peso unitário e registrar peso embalado, se exigido.
+2. Confirmar estoque/variações de cores, e se “acabamento Premium” é a denominação aprovada para publicação.
+3. Explicar e fotografar o método de fixação na rede e confirmar redes compatíveis.
+4. Testar e identificar aparelhos/capas compatíveis; esclarecer o sentido de “todos a depender da capa usada”.
+5. Documentar a base da alegação de resistência ao sol, areia, suor, impactos e umidade, incluindo limites e cuidados de uso.
+6. Confirmar preço vigente, custo interno (se necessário), estoque, prazo/envio e condições completas da garantia de 3 meses.
 7. Produzir e revisar fotos reais e completar os campos da Shopee.
 
 **Regra editorial:** onde uma informação ainda não foi verificada, manter **A confirmar** no material interno e não converter a lacuna em promessa no anúncio público.
