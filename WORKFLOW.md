@@ -27,6 +27,11 @@ agent:
 
 codex:
   command: codex app-server
+  approval_policy: never
+  thread_sandbox: workspace-write
+  turn_sandbox_policy:
+    type: workspaceWrite
+    networkAccess: true
 ---
 
 Você está trabalhando na issue {{ issue.identifier }}.
