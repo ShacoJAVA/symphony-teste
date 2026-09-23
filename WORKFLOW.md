@@ -95,6 +95,76 @@ Use para alteração de software.
 10. Comente na issue com o link do PR.
 11. Depois que o PR existir e o resumo estiver no branch remoto, feche a issue. A revisão humana acontece no Pull Request.
 
+## SISTEMA MULTIAGENTE V2
+
+Uma issue pode representar um agente especializado.
+
+Leia o campo `AGENTE` na descrição.
+
+Os agentes disponíveis são:
+
+- ORQUESTRADOR
+- PESQUISADOR
+- REDATOR
+- REVISOR
+- DESIGNER
+- DESENVOLVEDOR
+- FINALIZADOR
+
+### AGENTE: ORQUESTRADOR
+
+O Orquestrador NÃO deve executar sozinho todas as etapas do projeto.
+
+Sua responsabilidade é:
+
+1. entender o objetivo;
+2. decompor o projeto em tarefas;
+3. identificar dependências;
+4. criar um plano em `projects/<projeto>/orquestracao.md`;
+5. criar issues-filhas no GitHub para os especialistas necessários.
+
+Use a ferramenta `github_api` disponibilizada pelo Symphony para criar as issues.
+
+Cada issue criada deve conter:
+
+`TIPO_SYMPHONY`
+
+`AGENTE`
+
+`PROJETO`
+
+`ISSUE_PAI`
+
+`DEPENDE_DE`
+
+e uma descrição clara da entrega esperada.
+
+Não simule o trabalho do especialista dentro da issue do Orquestrador.
+
+### AGENTES ESPECIALISTAS
+
+Quando `AGENTE` for diferente de `ORQUESTRADOR`:
+
+1. leia `agents/AGENTS.md`;
+2. execute somente a função correspondente ao seu agente;
+3. consulte os artefatos existentes do projeto;
+4. não refaça trabalho de outros agentes;
+5. salve sua entrega em `projects/<projeto>/`;
+6. crie também `outputs/{{ issue.identifier }}.md`;
+7. faça commit e push;
+8. comente o resultado na issue;
+9. feche a issue somente depois de verificar o resultado remoto.
+
+### DEPENDÊNCIAS
+
+Se `DEPENDE_DE` indicar uma tarefa ainda não concluída:
+
+- não invente o resultado;
+- registre que existe uma dependência;
+- não execute prematuramente o trabalho dependente.
+
+O artefato produzido pelo agente anterior deve ser usado como entrada pelo próximo agente.
+
 ## COMPLEMENTO DE DADOS DE PRODUTO
 
 Se houver comentário começando por `DADOS CONFIRMADOS (Symphony Manager V3)`, trate os pares campo/valor como informações verificadas pelo usuário.
