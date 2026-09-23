@@ -272,50 +272,63 @@ Quando a issue declarar `CAPACIDADE: IMAGEM` e a rota correspondente em
 
 1. Leia integralmente a solicitação da issue e os artefatos relevantes do projeto.
 
-2. O agente DESIGNER deve criar um prompt final de geração de imagem baseado
-   exclusivamente nos requisitos do projeto.
+2. O agente DESIGNER deve criar um prompt final baseado exclusivamente nos
+   requisitos do projeto.
 
-3. Salve o prompt utilizado em:
+3. Salve o prompt em:
 
    `projects/<projeto>/prompts/<issue-identifier>.txt`
 
-4. Utilize obrigatoriamente o executor definido pelo Model Router.
+4. Para gerar a imagem, utilize obrigatoriamente a ferramenta dinâmica
+   `generate_image` disponibilizada pelo Symphony.
 
-   Para a rota Puter atual:
+   Parâmetros:
 
-   `executors/puter_image.mjs`
+   - `prompt`: prompt final criado pelo DESIGNER
+   - `output`: `projects/<projeto>/generated/<issue-identifier>`
 
-5. Execute o gerador no workspace usando:
+5. NÃO execute `node executors/puter_image.mjs` diretamente pelo shell.
 
-   `node executors/puter_image.mjs "<PROMPT>" "projects/<projeto>/generated/<issue-identifier>"`
+   `executors/puter_image.mjs` é implementação interna da capability
+   `generate_image` e deve ser acionado pelo Symphony.
 
-6. Não simule a execução. O arquivo de imagem precisa existir fisicamente no
-   workspace para que a tarefa seja considerada concluída.
+6. Não simule a execução. A ferramenta deve retornar sucesso e o arquivo de
+   imagem deve existir fisicamente no workspace.
 
-7. Após a execução, verifique a existência do artefato gerado.
-
-8. Registre em `outputs/<issue-identifier>.md`:
+7. Registre em `outputs/<issue-identifier>.md`:
 
    - `CAPACIDADE: IMAGEM`
    - `PROVIDER: puter`
+   - `TOOL: generate_image`
    - `EXECUTOR: executors/puter_image.mjs`
    - `MODELO: google/gemini-3.1-flash-image`
    - `STATUS_ROTA: CONECTADO`
    - `STATUS_EXECUCAO: SUCESSO` ou `FALHA`
-   - caminho do prompt utilizado
-   - caminho exato da imagem gerada
+   - caminho do prompt
+   - caminho exato da imagem
 
-9. Somente registre `STATUS_EXECUCAO: SUCESSO` se o arquivo de imagem realmente
-   existir no workspace.
+8. Só registre `STATUS_EXECUCAO: SUCESSO` se `generate_image` retornar sucesso
+   e o arquivo existir.
 
-10. Em caso de erro do executor:
+9. Se `generate_image` retornar `configuration_required` ou
+   `operator_action_required`:
+
+   - preserve exatamente o motivo;
+   - NÃO tente contornar usando shell;
+   - NÃO execute o executor manualmente;
+   - NÃO crie artefato falso;
+   - NÃO declare sucesso;
+   - aguarde intervenção do operador.
+
+10. Para outras falhas:
     - preserve a mensagem de erro;
     - registre `STATUS_EXECUCAO: FALHA`;
     - não crie arquivo falso;
-    - não declare que uma imagem foi gerada.
+    - não declare geração bem-sucedida.
 
-11. Quando a geração for bem-sucedida, preserve a imagem como artefato do projeto
-    e siga o fluxo normal de commit, push, comentário na issue e encerramento.
+11. Em caso de sucesso, preserve a imagem, faça commit/push, comente na issue e
+    siga o fluxo normal de encerramento.
 
-12. Nunca exponha, grave, imprima ou faça commit de `PUTER_AUTH_TOKEN`.
-    O executor deve obter a credencial exclusivamente da variável de ambiente.
+12. Nunca exponha, leia, grave, imprima ou faça commit de `PUTER_AUTH_TOKEN`.
+    A credencial é gerenciada pelo Symphony.
+
