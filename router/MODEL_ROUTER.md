@@ -76,17 +76,20 @@ Uso:
 - capas;
 - conceitos visuais.
 
-Rota desejada:
-- provider: google
-- executor: gemini
+Rota ativa:
+- provider: puter
+- executor: executors/puter_image.mjs
+- model: google/gemini-3.1-flash-image
 
 Status:
-- NAO_CONECTADO
+- CONECTADO
 
-Enquanto o provedor não estiver conectado:
-- produza briefing visual;
-- produza prompts;
-- NÃO afirme que uma imagem foi gerada.
+Execução:
+- o agente deve preparar o prompt de geração;
+- o executor local deve ser chamado pelo Node.js;
+- a imagem retornada deve ser salva como artefato do projeto;
+- o caminho do arquivo gerado deve ser registrado no output da issue;
+- não simular geração quando o executor retornar erro.
 
 ### CODIGO
 

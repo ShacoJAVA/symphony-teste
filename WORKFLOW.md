@@ -264,3 +264,58 @@ Se a issue tiver sido reaberta e houver comentário começando por `PEDIDO DE RE
 - Não invente fatos ausentes.
 - Preserve arquivos e mudanças fora do escopo.
 - Antes de encerrar, confirme que a saída está realmente persistida no GitHub.
+
+### EXECUÇÃO REAL — CAPACIDADE IMAGEM
+
+Quando a issue declarar `CAPACIDADE: IMAGEM` e a rota correspondente em
+`router/MODEL_ROUTER.md` estiver marcada como `CONECTADO`:
+
+1. Leia integralmente a solicitação da issue e os artefatos relevantes do projeto.
+
+2. O agente DESIGNER deve criar um prompt final de geração de imagem baseado
+   exclusivamente nos requisitos do projeto.
+
+3. Salve o prompt utilizado em:
+
+   `projects/<projeto>/prompts/<issue-identifier>.txt`
+
+4. Utilize obrigatoriamente o executor definido pelo Model Router.
+
+   Para a rota Puter atual:
+
+   `executors/puter_image.mjs`
+
+5. Execute o gerador no workspace usando:
+
+   `node executors/puter_image.mjs "<PROMPT>" "projects/<projeto>/generated/<issue-identifier>"`
+
+6. Não simule a execução. O arquivo de imagem precisa existir fisicamente no
+   workspace para que a tarefa seja considerada concluída.
+
+7. Após a execução, verifique a existência do artefato gerado.
+
+8. Registre em `outputs/<issue-identifier>.md`:
+
+   - `CAPACIDADE: IMAGEM`
+   - `PROVIDER: puter`
+   - `EXECUTOR: executors/puter_image.mjs`
+   - `MODELO: google/gemini-3.1-flash-image`
+   - `STATUS_ROTA: CONECTADO`
+   - `STATUS_EXECUCAO: SUCESSO` ou `FALHA`
+   - caminho do prompt utilizado
+   - caminho exato da imagem gerada
+
+9. Somente registre `STATUS_EXECUCAO: SUCESSO` se o arquivo de imagem realmente
+   existir no workspace.
+
+10. Em caso de erro do executor:
+    - preserve a mensagem de erro;
+    - registre `STATUS_EXECUCAO: FALHA`;
+    - não crie arquivo falso;
+    - não declare que uma imagem foi gerada.
+
+11. Quando a geração for bem-sucedida, preserve a imagem como artefato do projeto
+    e siga o fluxo normal de commit, push, comentário na issue e encerramento.
+
+12. Nunca exponha, grave, imprima ou faça commit de `PUTER_AUTH_TOKEN`.
+    O executor deve obter a credencial exclusivamente da variável de ambiente.

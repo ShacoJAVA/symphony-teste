@@ -1,0 +1,10 @@
+
+# Dependências locais
+node_modules/
+.venv/
+
+# Credenciais e variáveis de ambiente
+.env
+.env.*
+*.key
+*.pem
