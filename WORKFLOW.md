@@ -165,6 +165,79 @@ Se `DEPENDE_DE` indicar uma tarefa ainda não concluída:
 
 O artefato produzido pelo agente anterior deve ser usado como entrada pelo próximo agente.
 
+## MODEL ROUTER V3
+
+Para tarefas multiagente que contenham o campo `CAPACIDADE`, consulte:
+
+`router/MODEL_ROUTER.md`
+
+antes de executar a tarefa.
+
+### CAMPOS DE ROTEAMENTO
+
+Uma issue pode declarar:
+
+- `CAPACIDADE`
+- `PROVIDER_PREFERIDO`
+- `MODELO_PREFERIDO`
+
+O campo obrigatório para roteamento é:
+
+`CAPACIDADE`
+
+### RESPONSABILIDADE DO ORQUESTRADOR
+
+Ao criar uma issue-filha, o ORQUESTRADOR deve definir também:
+
+`CAPACIDADE: <capacidade>`
+
+Escolha a capacidade de acordo com o trabalho solicitado.
+
+Exemplos:
+
+- pesquisa e levantamento de informações -> `PESQUISA`
+- redação de conteúdo -> `TEXTO`
+- revisão crítica -> `REVISAO`
+- geração de imagens -> `IMAGEM`
+- programação -> `CODIGO`
+- geração de vídeo -> `VIDEO`
+- consolidação da entrega -> `FINALIZACAO`
+
+O Orquestrador solicita capacidades, não fornecedores específicos, salvo quando o projeto exigir explicitamente um provedor.
+
+### RESPONSABILIDADE DO ESPECIALISTA
+
+Antes de executar:
+
+1. leia `router/MODEL_ROUTER.md`;
+2. identifique sua `CAPACIDADE`;
+3. determine a rota correspondente;
+4. registre no arquivo `outputs/{{ issue.identifier }}.md`:
+
+   - capacidade solicitada;
+   - provider definido pelo Router;
+   - executor definido pelo Router;
+   - status da rota.
+
+### PROVEDOR NÃO CONECTADO
+
+Se a rota estiver marcada como `NAO_CONECTADO`:
+
+1. não finja que chamou o provedor;
+2. não finja que gerou o artefato;
+3. produza os insumos necessários para futura execução;
+4. registre `STATUS_ROTA: AGUARDANDO_PROVEDOR`;
+5. preserve esses insumos no projeto.
+
+### PROVEDOR CONECTADO
+
+Quando uma integração real estiver disponível:
+
+1. utilize o executor configurado;
+2. preserve o resultado retornado;
+3. registre qual rota foi efetivamente utilizada;
+4. não substitua silenciosamente um provedor indisponível por outro.
+
 ## COMPLEMENTO DE DADOS DE PRODUTO
 
 Se houver comentário começando por `DADOS CONFIRMADOS (Symphony Manager V3)`, trate os pares campo/valor como informações verificadas pelo usuário.
